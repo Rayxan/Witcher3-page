@@ -1,0 +1,52 @@
+body{
+    background: #2F4F4F;
+    font-family: "DejaVu Sans Mono", "Arial";
+    font-size: 12px;
+    max-width: 900px;
+    margin: auto;
+}
+.logo{
+    border: 1px solid #505050;
+    width: 320px;
+    height: 205px;
+}
+#title{
+    color : #8B0000;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.subtitle{
+    color: #C0C0C0;
+    font-size: 16px;
+}
+.vege_title{
+    color: #D8BFD8;
+    font-size: 14px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    text-decoration: overline;
+}
+.vege_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
+.vege_image{
+    padding: 15px;
+    /* border: 1px solid #000; */
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 600px;
+    height: 400px;
+}
+.characters_list{
+    list-style-type: square;
+    padding-left: 15px;
+}
+.characters_list li a{
+    color: #8B0000;
+}

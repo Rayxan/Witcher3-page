@@ -18,6 +18,7 @@ body{
 a{
     text-decoration: none;
     color: black;
+    font-size: 14px;
 }
 .subtitle{
     color: #C0C0C0;
@@ -47,9 +48,7 @@ a{
     list-style-type: square;
     padding-left: 15px;
 }
-.characters_list li a{
-    color: #8B0000;
-}
+
 footer {
     text-align: center;
     padding: 4rem 0 2rem;

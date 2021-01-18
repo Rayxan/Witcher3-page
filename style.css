@@ -50,3 +50,8 @@ a{
 .characters_list li a{
     color: #8B0000;
 }
+footer {
+    text-align: center;
+    padding: 4rem 0 2rem;
+    color: #363f5f;
+}
